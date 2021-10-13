@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src",
+        "outDir": "./dist",
+        "noEmitOnError": true,
+        "target": "es6",
+        "watch": true,
+        "lib": ["dom", "es2015"]
+    }
+}
